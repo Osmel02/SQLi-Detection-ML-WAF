@@ -159,6 +159,26 @@ pip show scikit-learn
 **Osmel Pillot Leyva**  
 📅 Proyecto creado el: 01/04/2025
 
+## 📸 Evidencias
+
+### Logs de ModSecurity
+
+![Log - consulta legítima](screenshots/logs_modsecurity/log_consulta_legit.png)
+![Log - consulta maliciosa 1](screenshots/logs_modsecurity/log_consulta_malic_1.png)
+![Log - consulta maliciosa 2](screenshots/logs_modsecurity/log_consulta_malic_2.png)
+
+### Pruebas en DVWA
+
+![Bloque exitoso (DVWA)](screenshots/pruebas_dvwa/bloque_exitoso.png)
+
+### Resultados de modelos ML
+
+![1 - XGBoost](screenshots/resultados_modelos_ML/1-XGBoost.png)
+![2 - LightGBM](screenshots/resultados_modelos_ML/2-LightGBM.png)
+![3 - LSTM](screenshots/resultados_modelos_ML/3-LSTM.png)
+![4 - CNN](screenshots/resultados_modelos_ML/4-CNN.png)
+![5 - Comparativa Resultados](screenshots/resultados_modelos_ML/5-Comparativa_Resultados.png)
+
 ---
 
 ⭐ **¿Te gusta este proyecto? Dale una estrella al repositorio!**
